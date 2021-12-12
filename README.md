@@ -38,9 +38,9 @@ It consists of a lunar orbiter, and also included the Vikram lander, and the Pra
 It was launched on 22 July 2019. Lunar orbit insertion was done on 22 August 2019. 
 The Vikram lander was lost on 6 September 2019 very close to lunar landing.
 
-[Chandrayaan 2 Animation](https://github.com/kvsankar/chandrayaan2)
+[![Chandrayaan 2 Animation](/images/chandrayaan2.png)](https://sankara.net/chandrayaan2.html)
 
-[Chandrayaan 2 Animation Source](https://sankara.net/chandrayaan2.html)
+[Chandrayaan 2 Animation Source](https://github.com/kvsankar/chandrayaan2)
 
 #### Mars Orbiter Mission
 
@@ -51,7 +51,7 @@ It was launched on 5 November 2013 by the Indian Space Research Organisation (IS
 It is India's first interplanetary mission and it made it the fourth space agency to achieve Mars orbit, after Roscosmos, NASA, and the European Space Agency. 
 It made India the first Asian nation to reach Martian orbit and the first nation in the world to do so on its maiden attempt.
 
-[Mars Orbiter Mission Animation](https://sankara.net/mom.html)
+[![Chandrayaan 2 Animation](/images/mom.png)](https://sankara.net/mom.html)
 
 [Mars Orbiter Mission Animation Source](https://github.com/kvsankar/mom)
 
@@ -64,7 +64,7 @@ with a team led by Alan Stern, the spacecraft was launched in 2006 with the prim
 and a secondary mission to fly by and study one or more other Kuiper belt objects (KBOs) in the decade to follow, 
 which became a mission to 486958 Arrokoth. It is the fifth space probe to achieve the escape velocity needed to leave the Solar System. 
 
-[New Horizons Animation](https://sankara.net/plutoflyby.html)
+[![New Horizons Animation](/images/new-horizons.png)](https://sankara.net/plutoflyby.html)
 
 ### Connect with me:
 
