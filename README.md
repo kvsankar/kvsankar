@@ -17,6 +17,21 @@ Here are some ideas to get you started:
 
 I am a software craftsman. In my day job I have created software solutions in networking and storage domains over a couple of decades. Outside of work, I am passionate about computing, astronomy, science, and photography.
 
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="IMDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][imdb]
+[<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blogs]
+
+<br/>
+
 ### Projects on Github
 
 I developed some spacecraft orbit animations for Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
@@ -65,20 +80,6 @@ and a secondary mission to fly by and study one or more other Kuiper belt object
 which became a mission to 486958 Arrokoth. It is the fifth space probe to achieve the escape velocity needed to leave the Solar System. 
 
 [![New Horizons Animation](/images/new-horizons.png)](https://sankara.net/plutoflyby.html)
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IMDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][imdb]
-[<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
-[<img align="left" alt="Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blogs]
-
 
 [github]: https://github.com/kvsankar
 [website]: https://sankara.net/
