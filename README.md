@@ -32,13 +32,39 @@ These animations were well received over social media for their educational cont
 
 #### Chandrayaan 2
 
-Chandrayaan-2 (ISRO, Wikipedia) is the second lunar exploration mission developed by the Indian Space Research Organisation, after Chandrayaan-1. 
+Chandrayaan-2 ([ISRO](https://www.isro.gov.in/chandrayaan2-home-0), [Wikipedia](https://en.wikipedia.org/wiki/Chandrayaan-2)) 
+is the second lunar exploration mission developed by the Indian Space Research Organisation, after Chandrayaan-1. 
 It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover, all of which were developed in India. 
 It was launched on 22 July 2019. Lunar orbit insertion was done on 22 August 2019. 
 The Vikram lander was lost on 6 September 2019 very close to lunar landing.
 
-[chandrayaan2animation]
-[chandrayaan2code]
+[Chandrayaan 2 Animation](https://github.com/kvsankar/chandrayaan2)
+
+[Chandrayaan 2 Animation Source](https://sankara.net/chandrayaan2.html)
+
+#### Mars Orbiter Mission
+
+The Mars Orbiter Mission (MOM), also called Mangalyaan 
+([ISRO](https://www.isro.gov.in/pslv-c25-mars-orbiter-mission), [Wikipedia](https://en.wikipedia.org/wiki/Mars_Orbiter_Mission))
+is a space probe orbiting Mars since 24 September 2014. 
+It was launched on 5 November 2013 by the Indian Space Research Organisation (ISRO). 
+It is India's first interplanetary mission and it made it the fourth space agency to achieve Mars orbit, after Roscosmos, NASA, and the European Space Agency. 
+It made India the first Asian nation to reach Martian orbit and the first nation in the world to do so on its maiden attempt.
+
+[Mars Orbiter Mission Animation](https://sankara.net/mom.html)
+
+[Mars Orbiter Mission Animation Source](https://github.com/kvsankar/mom)
+
+#### New Horizons Pluto Mission
+
+New Horizons ([NASA](https://www.nasa.gov/mission_pages/newhorizons/main/index.html), [Wikipedia](https://en.wikipedia.org/wiki/New_Horizons)) 
+is an interplanetary space probe that was launched as a part of NASA's New Frontiers program. 
+Engineered by the Johns Hopkins University Applied Physics Laboratory (APL) and the Southwest Research Institute (SwRI), 
+with a team led by Alan Stern, the spacecraft was launched in 2006 with the primary mission to perform a flyby study of the Pluto system in 2015, 
+and a secondary mission to fly by and study one or more other Kuiper belt objects (KBOs) in the decade to follow, 
+which became a mission to 486958 Arrokoth. It is the fifth space probe to achieve the escape velocity needed to leave the Solar System. 
+
+[New Horizons Animation](https://sankara.net/plutoflyby.html)
 
 ### Connect with me:
 
@@ -66,6 +92,4 @@ The Vikram lander was lost on 6 September 2019 very close to lunar landing.
 [facebook]: https://www.facebook.com/kvsankar 
 [blogs]: https://sankara.net/blogs 
 
-[chandrayaan2code]: https://github.com/kvsankar/chandrayaan2
-[chandrayaan2animation]: https://sankara.net/chandrayaan2.html
-
+<!-- end of file -->
