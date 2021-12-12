@@ -32,7 +32,7 @@ I am a software craftsman. In my day job I have created software solutions in ne
 
 <br/>
 
-### Projects on Github
+### Key Projects on Github
 
 I developed some spacecraft orbit animations for Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
 These animations use real orbit ephemerides data from JPL NASA shared via the Horizons platform. 
