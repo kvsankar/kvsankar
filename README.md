@@ -35,9 +35,9 @@ I am a software craftsman. In my day job I have created software solutions in ne
 ### Key Projects on Github
 
 I developed some spacecraft orbit animations for Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
-These animations use real orbit ephemerides data from JPL NASA shared via the Horizons platform. 
+These animations use real orbit ephemerides data from JPL NASA shared via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). 
 I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission. 
-I am thankful to Jon D. Giorgini at JPL who has been very supportive in answering my queries. 
+I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries. 
 While all animations support 2D animations, the Chandrayaan-2 animation also supports 3D. 
 All animations have controls to visualize the orbits as heliocentric, geocentric, selenocentric, or Mars centric as the case may be. 
 You can pan and zoom as well or keep an object of interest centered while the world moves around it. 
