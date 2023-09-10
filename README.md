@@ -52,16 +52,16 @@ is the third lunar exploration mission developed by the Indian Space Research Or
 It consists of a lunar lander named Vikram and a rover named Pragyan, and a propulsion module. 
 It was launched on 14th July, 2023. The lander touched down the lunar surface successfully on 23rd August, 2023. 
 
-[![Chandrayaan 2 Animation](/images/chandrayaan3.png)](https://sankara.net/chandrayaan3.html)
+[![Chandrayaan 3 Animation](/images/chandrayaan3.png)](https://sankara.net/chandrayaan3.html)
 
-[Chandrayaan 2 Animation Source](https://github.com/kvsankar/chandrayaan3)
+[Chandrayaan 3 Animation Source](https://github.com/kvsankar/chandrayaan3)
 
 
 #### Chandrayaan 2
 
 Chandrayaan-2 ([ISRO](https://www.isro.gov.in/chandrayaan2-home-0), [Wikipedia](https://en.wikipedia.org/wiki/Chandrayaan-2)) 
-is the second lunar exploration mission developed by the Indian Space Research Organisation, after Chandrayaan-1. 
-It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover, all of which were developed in India. 
+is the second lunar exploration mission developed by the Indian Space Research Organisation under the Chandrayaan program after Chandrayaan-1. 
+It consists of a lunar orbiter, a lander named Vikram, and a rover named Pragyan, all of which were developed in India. 
 It was launched on 22 July 2019. Lunar orbit insertion was done on 22 August 2019. 
 The Vikram lander was lost on 6 September 2019 very close to lunar landing.
 
