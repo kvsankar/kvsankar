@@ -34,7 +34,7 @@ I am a software craftsman. In my day job I have created software solutions in ne
 
 ### Key Projects on Github
 
-I developed some spacecraft orbit animations for Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
+I have developed some spacecraft orbit animations for Chandrayaan-3 (ISRO), Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
 These animations use real orbit ephemerides data from JPL NASA shared via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). 
 I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission. 
 I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries. 
@@ -44,6 +44,18 @@ You can pan and zoom as well or keep an object of interest centered while the wo
 Mission timelines are shown with annotated events such as orbit boost burns and orbit insertions. 
 Source code for these animations are available on this Github site under the MIT license. 
 These animations were well received over social media for their educational content. 
+
+#### Chandrayaan 3
+
+Chandrayaan-3 ([ISRO](https://www.isro.gov.in/Chandrayaan3.html), [Wikipedia](https://en.wikipedia.org/wiki/Chandrayaan-3)) 
+is the third lunar exploration mission developed by the Indian Space Research Organisation under the Chandrayaan program. 
+It consists of a lunar lander named Vikram and a rover named Pragyan, and a propulsion module. 
+It was launched on 14th July, 2023. The lander touched down the lunar surface successfully on 23rd August, 2023. 
+
+[![Chandrayaan 2 Animation](/images/chandrayaan3.png)](https://sankara.net/chandrayaan3.html)
+
+[Chandrayaan 2 Animation Source](https://github.com/kvsankar/chandrayaan3)
+
 
 #### Chandrayaan 2
 
