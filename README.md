@@ -35,15 +35,30 @@ I am a software craftsman. In my day job I have created software solutions in ne
 ### Key Projects on Github
 
 I have developed some spacecraft orbit animations for Chandrayaan-3 (ISRO), Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
-These animations use real orbit ephemerides data from JPL NASA shared via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). 
+These animations use real orbit ephemerides data from JPL NASA shared by ISRO via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). 
 I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission. 
 I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries. 
-While all animations support 2D animations, the Chandrayaan-2 animation also supports 3D. 
+While all animations support 2D animations, the Chandrayaan-2 and Chandrayaan-3 animations also support 3D. 
 All animations have controls to visualize the orbits as heliocentric, geocentric, selenocentric, or Mars centric as the case may be. 
 You can pan and zoom as well or keep an object of interest centered while the world moves around it. 
 Mission timelines are shown with annotated events such as orbit boost burns and orbit insertions. 
+Reference planes such as the equator, ecliptic, lunar orbit, or the Moon's sphere of influence can also be visualized. 
 Source code for these animations are available on this Github site under the MIT license. 
-These animations were well received over social media for their educational content. 
+
+I have done multiple educational outreach sessions on these missions. 
+The animations have been well received over social media for their educational content. 
+
+Here are some related links:
+
+- Asianet news [clip](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
+- Bangalore Astronomy Society talk - [YouTube](https://youtu.be/hl5MWLWvqjU) | [Slides](Chandrayaan3-Sankar-Viswanathan-BAS-v6.pdf)
+- RV University [lecture](https://rvu.edu.in/eventsdetails.php?title=chandrayaan-3-mapping-the-journey-from-sriharikota-to-shiv-shakti)
+- Amrita University [lecture](https://www.linkedin.com/posts/kvsankar_a-very-happy-national-space-day-2024-to-everyone-activity-7232639534155358208-_ntP/)
+- The Wire [article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
+- ISRO social media [post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr) on MoM
+- Reddit [post](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/) on Chandrayaan-3 animation
+- Reddit [post](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/) on Chandrayaan 2 crash site location analysis
+- Reddit posts on Chandrayaan-2 ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
 
 #### Chandrayaan 3
 
