@@ -51,7 +51,7 @@ The animations have been well received over social media for their educational c
 Here are some related links:
 
 - Asianet news [clip](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
-- Bangalore Astronomy Society talk - [YouTube](https://youtu.be/hl5MWLWvqjU) | [Slides](Chandrayaan3-Sankar-Viswanathan-BAS-v6.pdf)
+- Bangalore Astronomy Society lecture - [YouTube](https://youtu.be/hl5MWLWvqjU) | [Slides](Chandrayaan3-Sankar-Viswanathan-BAS-v6.pdf)
 - RV University [lecture](https://rvu.edu.in/eventsdetails.php?title=chandrayaan-3-mapping-the-journey-from-sriharikota-to-shiv-shakti)
 - Amrita University [lecture](https://www.linkedin.com/posts/kvsankar_a-very-happy-national-space-day-2024-to-everyone-activity-7232639534155358208-_ntP/)
 - The Wire [article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
