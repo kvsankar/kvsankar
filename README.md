@@ -19,7 +19,8 @@ I am a software craftsman. In my day job I have created software solutions in ne
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="IMDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][imdb]
@@ -59,6 +60,16 @@ Here are some related links:
 - Reddit [post](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/) on Chandrayaan-3 animation
 - Reddit [post](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/) on Chandrayaan 2 crash site location analysis
 - Reddit posts on Chandrayaan-2 ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
+
+#### Chandrayaan-3 Mission Design Tool
+
+An interactive 3D educational tool for learning orbital mechanics through Chandrayaan-3's mission design.
+Features three modes: **Explore** (manual control of all parameters), **Plan** (mission planning with real lunar ephemeris),
+and **Game** (playback with capture detection). Built with Three.js and astronomy-engine for accurate celestial mechanics.
+
+🚀 **[Live Demo](https://kvsankar.github.io/chandrayaan-mission-design/)**
+
+[Chandrayaan-3 Mission Design Source](https://github.com/kvsankar/chandrayaan-mission-design)
 
 #### Chandrayaan 3
 
