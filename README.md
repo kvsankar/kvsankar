@@ -35,19 +35,19 @@ I am a software craftsman. In my day job I have created software solutions in ne
 
 ### Key Projects on Github
 
-I have developed some spacecraft orbit animations for Chandrayaan-3 (ISRO), Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes. 
-These animations use real orbit ephemerides data from JPL NASA shared by ISRO via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). 
-I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission. 
-I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries. 
-While all animations support 2D animations, the Chandrayaan-2 and Chandrayaan-3 animations also support 3D. 
-All animations have controls to visualize the orbits as heliocentric, geocentric, selenocentric, or Mars centric as the case may be. 
-You can pan and zoom as well or keep an object of interest centered while the world moves around it. 
-Mission timelines are shown with annotated events such as orbit boost burns and orbit insertions. 
-Reference planes such as the equator, ecliptic, lunar orbit, or the Moon's sphere of influence can also be visualized. 
-Source code for these animations are available on this Github site under the MIT license. 
+I have developed spacecraft orbit animations for Chandrayaan-3 (ISRO), Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes.
+These animations use real orbit ephemerides data from JPL NASA shared via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/).
+I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission.
+I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries during the development of these scientific visualizations.
+While all animations support 2D, the Chandrayaan-2 and Chandrayaan-3 animations also support 3D.
+All animations have controls to visualize the orbits as heliocentric, geocentric, selenocentric, or Mars centric as the case may be.
+You can pan and zoom as well or keep an object of interest centered while the world moves around it.
+Mission timelines are shown with annotated events such as orbit boost burns and orbit insertions.
+Reference planes such as the equator, ecliptic, lunar orbit, or the Moon's sphere of influence can also be visualized.
+Source code for these animations are available on this Github site under the MIT license.
 
-I have done multiple educational outreach sessions on these missions. 
-The animations have been well received over social media for their educational content. 
+I have conducted multiple educational outreach sessions on these missions at universities and astronomy clubs.
+The animations and talks have been well received over social media and in the astronomy community for their educational content. 
 
 Here are some related links:
 
