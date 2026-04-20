@@ -55,7 +55,10 @@ All source code is available on this GitHub site under the MIT license.
 - [Amrita University Lecture](https://www.linkedin.com/posts/kvsankar_a-very-happy-national-space-day-2024-to-everyone-activity-7232639534155358208-_ntP/)
 - [The Wire Article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
 - [ISRO MoM Post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
-- Reddit: [Artemis II animation](https://www.reddit.com/r/space/comments/1sahlxl/artemis_ii_interactive_3d_animation/) | [Chandrayaan-3 animation](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/) | [Chandrayaan-2 crash site analysis](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/) | Chandrayaan-2 animation ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
+- [Reddit: Artemis II animation](https://www.reddit.com/r/space/comments/1sahlxl/artemis_ii_interactive_3d_animation/)
+- [Reddit: CY3 animation](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/)
+- [Reddit: CY2 crash site analysis](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/)
+- Reddit: CY2 animation ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
 
 #### Artemis II
 
@@ -115,9 +118,11 @@ and **Game** (playback with capture detection). Built with Three.js and astronom
 
 🚀 **[Live Demo](https://kvsankar.github.io/chandrayaan-mission-design/)**
 
+[![Chandrayaan-3 Mission Design Tool](/images/chandrayaan-mission-design.png)](https://kvsankar.github.io/chandrayaan-mission-design/)
+
 [Chandrayaan-3 Mission Design Source](https://github.com/kvsankar/chandrayaan-mission-design)
 
-#### Chandrayaan 3
+#### Chandrayaan 3 Animation
 
 Chandrayaan-3 ([ISRO](https://www.isro.gov.in/Chandrayaan3.html), [Wikipedia](https://en.wikipedia.org/wiki/Chandrayaan-3)) 
 is the third lunar exploration mission developed by the Indian Space Research Organisation under the Chandrayaan program. 
@@ -126,10 +131,10 @@ It was launched on 14th July, 2023. The lander touched down the lunar surface su
 
 [![Chandrayaan 3 Animation](/images/chandrayaan3.png)](https://sankara.net/chandrayaan3.html)
 
-[Chandrayaan 3 Animation Source](https://github.com/kvsankar/chandrayaan3)
+[Live](https://sankara.net/astro/lunar-missions/mission.html?mission=chandrayaan3) | [GitHub](https://github.com/kvsankar/moon-mission) · [Legacy](https://sankara.net/chandrayaan3.html) | [GitHub](https://github.com/kvsankar/chandrayaan3) · [Talk](https://www.youtube.com/watch?v=hl5MWLWvqjU) | [Slides](https://github.com/kvsankar/talks)
 
 
-#### Chandrayaan 2
+#### Chandrayaan 2 Animation
 
 Chandrayaan-2 ([ISRO](https://www.isro.gov.in/chandrayaan2-home-0), [Wikipedia](https://en.wikipedia.org/wiki/Chandrayaan-2)) 
 is the second lunar exploration mission developed by the Indian Space Research Organisation under the Chandrayaan program after Chandrayaan-1. 
@@ -139,7 +144,7 @@ The Vikram lander was lost on 6 September 2019 very close to lunar landing.
 
 [![Chandrayaan 2 Animation](/images/chandrayaan2.png)](https://sankara.net/chandrayaan2.html)
 
-[Chandrayaan 2 Animation Source](https://github.com/kvsankar/chandrayaan2)
+[Live](https://sankara.net/astro/lunar-missions/mission.html?mission=chandrayaan2) | [GitHub](https://github.com/kvsankar/moon-mission) · [Legacy](https://sankara.net/chandrayaan2.html) | [GitHub](https://github.com/kvsankar/chandrayaan2)
 
 #### Mars Orbiter Mission
 
