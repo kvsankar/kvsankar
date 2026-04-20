@@ -33,33 +33,79 @@ I am a software craftsman. In my day job I have created software solutions in ne
 
 <br/>
 
-### Key Projects on Github
+### Space and Astronomy Visualizations
 
-I have developed spacecraft orbit animations for Chandrayaan-3 (ISRO), Chandrayaan-2 (ISRO), Mars Orbiter Mission (ISRO), and New Horizons (NASA) for educational purposes.
-These animations use real orbit ephemerides data from JPL NASA shared via the [Horizons platform](https://ssd.jpl.nasa.gov/horizons/).
-I have been influential in making this data public for the first time in 2013 during the Mars Orbiter Mission.
-I am thankful to [Jon D. Giorgini](https://www.iau.org/administration/membership/individual/13743/) at JPL who has been very supportive in answering my queries during the development of these scientific visualizations.
-While all animations support 2D, the Chandrayaan-2 and Chandrayaan-3 animations also support 3D.
-All animations have controls to visualize the orbits as heliocentric, geocentric, selenocentric, or Mars centric as the case may be.
-You can pan and zoom as well or keep an object of interest centered while the world moves around it.
-Mission timelines are shown with annotated events such as orbit boost burns and orbit insertions.
-Reference planes such as the equator, ecliptic, lunar orbit, or the Moon's sphere of influence can also be visualized.
-Source code for these animations are available on this Github site under the MIT license.
+I build interactive, scientifically accurate space and astronomy visualization tools using real ephemeris data from
+NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
+What started in 2013 as a 2D animation for India's Mars Orbiter Mission has evolved into a
+[unified portal](https://sankara.net/astro/lunar-missions/) covering 40+ international lunar missions
+including NASA's Artemis II, ISRO's Chandrayaan missions, and the Apollo heritage flights.
+More recently, I have built tools for [satellite conjunction analysis](https://sankara.net/astro/sattosat/)
+and [planetary alignment visualization](https://sankara.net/astro/planet-parade/).
 
-I have conducted multiple educational outreach sessions on these missions at universities and astronomy clubs.
-The animations and talks have been well received over social media and in the astronomy community for their educational content. 
+I have conducted educational outreach sessions on space missions and astronomy at universities and astronomy clubs,
+and the tools and talks have been well received in the astronomy community.
+All source code is available on this GitHub site under the MIT license.
 
-Here are some related links:
+**Featured Outreach & Media**
 
-- Asianet news [clip](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
-- Bangalore Astronomy Society lecture - [YouTube](https://youtu.be/hl5MWLWvqjU) | [Slides](Chandrayaan3-Sankar-Viswanathan-BAS-v6.pdf)
-- RV University [lecture](https://rvu.edu.in/eventsdetails.php?title=chandrayaan-3-mapping-the-journey-from-sriharikota-to-shiv-shakti)
-- Amrita University [lecture](https://www.linkedin.com/posts/kvsankar_a-very-happy-national-space-day-2024-to-everyone-activity-7232639534155358208-_ntP/)
-- The Wire [article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
-- ISRO social media [post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr) on MoM
-- Reddit [post](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/) on Chandrayaan-3 animation
-- Reddit [post](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/) on Chandrayaan 2 crash site location analysis
-- Reddit posts on Chandrayaan-2 ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
+- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
+- [Bangalore Astronomy Society Lecture](https://youtu.be/hl5MWLWvqjU) | [Slides](https://github.com/kvsankar/talks)
+- [RV University Lecture](https://rvu.edu.in/eventsdetails.php?title=chandrayaan-3-mapping-the-journey-from-sriharikota-to-shiv-shakti)
+- [Amrita University Lecture](https://www.linkedin.com/posts/kvsankar_a-very-happy-national-space-day-2024-to-everyone-activity-7232639534155358208-_ntP/)
+- [The Wire Article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
+- [ISRO MoM Post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
+- Reddit: [Artemis II animation](https://www.reddit.com/r/space/comments/1sahlxl/artemis_ii_interactive_3d_animation/) | [Chandrayaan-3 animation](https://www.reddit.com/r/ISRO/comments/14xdsba/chandrayaan_3_orbit_animation/) | [Chandrayaan-2 crash site analysis](https://www.reddit.com/r/ISRO/comments/e64jtr/chandrayaan_2_vikram_lander_debris_site_lro_image/) | Chandrayaan-2 animation ([one](https://www.reddit.com/r/ISRO/comments/chyh78/chandrayaan_2_orbit_animation/), [two](https://www.reddit.com/r/ISRO/comments/cr7lh4/chandrayaan_2_orbit_animation_recent_updates/), [three](https://www.reddit.com/r/ISRO/comments/cvkaon/chandrayaan_2_animation_3d_updates/))
+
+#### Artemis II
+
+Real-time 3D visualization of NASA's Artemis II lunar flyby mission.
+Track flyby events including Lunar SoI entry/exit, Earth-set, Earth-rise, eclipse, and closest approach.
+Compose predicted Earthset and Earthrise views from the crew's perspective.
+Built on the Lunar Missions platform using JPL Horizons orbit data.
+
+🚀 **[Live](https://sankara.net/astro/lunar-missions/mission.html?mission=artemis2)**
+
+[![Artemis II](/images/artemis2.png)](https://sankara.net/astro/lunar-missions/mission.html?mission=artemis2)
+
+[Artemis II Source](https://github.com/kvsankar/moon-mission)
+
+#### Lunar Missions Portal
+
+A unified visualization platform for 40+ international lunar missions including Artemis II, Chandrayaan-3, Apollo, and more.
+Features 2D (D3/SVG) and 3D (Three.js) rendering, multiple reference frames (Earth-centered, Moon-centered, relative),
+engine burn visualization, timeline scrubbing, and a "Joy Ride" co-orbital flight mode.
+
+🚀 **[Live](https://sankara.net/astro/lunar-missions/)**
+
+[![Lunar Missions Portal](/images/lunar-missions.png)](https://sankara.net/astro/lunar-missions/)
+
+[Lunar Missions Source](https://github.com/kvsankar/moon-mission)
+
+#### SatToSat
+
+A satellite orbit visualization and conjunction analysis tool.
+Select two satellites, visualize their orbits on a 3D globe, and find close approaches with 100ms precision.
+Features distance timeline graphs, relative satellite views with field-of-view presets, and automatic TLE fetching from Celestrak.
+
+🛰️ **[Live](https://sankara.net/astro/sattosat/)**
+
+[![SatToSat](/images/sattosat.png)](https://sankara.net/astro/sattosat/)
+
+[SatToSat Source](https://github.com/kvsankar/sattosat)
+
+#### Planet Parade
+
+An interactive planetary alignment analyzer and sky visualization tool.
+Find the best dates to see multiple planets at once, visualize their positions in 3D,
+and explore the sky as seen from Earth. Features a 3D solar system, alignment timeline,
+ecliptic sky view, and stereographic sky charts with stars, constellations, and the Milky Way.
+
+🌍 **[Live](https://sankara.net/astro/planet-parade/)**
+
+[![Planet Parade](/images/planet-parade.png)](https://sankara.net/astro/planet-parade/)
+
+[Planet Parade Source](https://github.com/kvsankar/planet-parade)
 
 #### Chandrayaan-3 Mission Design Tool
 
@@ -129,6 +175,6 @@ which became a mission to 486958 Arrokoth. It is the fifth space probe to achiev
 [flickr]: https://www.flickr.com/photos/kvsankar/
 [youtube]: https://www.youtube.com/user/kvsankar 
 [facebook]: https://www.facebook.com/kvsankar 
-[blogs]: https://sankara.net/blogs 
+[blogs]: https://blog.sankara.net/ 
 
 <!-- end of file -->
