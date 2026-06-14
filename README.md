@@ -69,6 +69,8 @@ Most project source is available on GitHub under the MIT license.
 
 #### Outreach & Media
 
+[![Science outreach talk](/images/outreach-bas-awe-2025.jpg)](https://sankara.net/outreach/)
+
 - [Science outreach page](https://sankara.net/outreach/)
 - [Talk slides](https://github.com/kvsankar/talks)
 - [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
