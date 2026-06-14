@@ -67,6 +67,15 @@ NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
 The main portal is at [sankara.net/astro](https://sankara.net/astro/).
 Most project source is available on GitHub under the MIT license.
 
+#### Outreach & Media
+
+- [Science outreach page](https://sankara.net/outreach/)
+- [Talk slides](https://github.com/kvsankar/talks)
+- [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
+- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
+- [The Wire article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
+- [ISRO MoM post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
+
 #### Artemis II
 
 Real-time 3D visualization of NASA's Artemis II lunar flyby.
@@ -123,15 +132,6 @@ Modes: Explore, Plan, and Game. Built with Three.js and astronomy-engine.
 
 I am revisiting selected deep-sky data in PixInsight with a nearly automated pipeline.
 The notes, scripts, and project logs are public in [kvsankar/pixinsight](https://github.com/kvsankar/pixinsight), with a separate [PixInsight project gallery](https://kvsankar.github.io/pixinsight/index.html).
-
-### Outreach & Media
-
-- [Science outreach page](https://sankara.net/outreach/)
-- [Talk slides](https://github.com/kvsankar/talks)
-- [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
-- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
-- [The Wire article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
-- [ISRO MoM post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
 
 [github]: https://github.com/kvsankar
 [website]: https://sankara.net/
