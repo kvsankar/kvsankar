@@ -19,7 +19,7 @@ I am an engineering leader, AI transformation consultant, and scientific visuali
 I have 28+ years of software engineering and engineering leadership experience across telecom, flash storage, and electric vehicles.
 I now work with engineering teams adopting AI coding agents in real codebases, with a focus on delivery speed, productivity, quality, and responsible trust calibration.
 
-Outside consulting, I build interactive astronomy visualizations, maintain small open-source tools for AI-assisted software development, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
+Outside consulting, I build interactive astronomy visualizations and open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
 
 ### Connect with me:
 
@@ -37,9 +37,18 @@ Outside consulting, I build interactive astronomy visualizations, maintain small
 
 <br/>
 
-### AI Projects
+### AI and DevEx
 
-Small, focused open-source tools for engineers using AI coding agents.
+Open-source projects for AI-assisted software delivery and developer experience.
+
+#### sarathi — Production Software Engineering with AI Agents
+
+A disciplined, adaptive workflow for building production software with AI coding agents.
+Helps agents and software teams turn accepted intent into the smallest safe working increment, preserve decisions and evidence, and adapt the remaining work from real feedback.
+
+[![sarathi production software engineering with AI agents](/images/sarathi-production-software-engineering-ai-agents-2026.png)](https://github.com/kvsankar/sarathi)
+
+[Source](https://github.com/kvsankar/sarathi)
 
 #### agent-history
 
