@@ -50,7 +50,7 @@ Helps agents and software teams turn accepted intent into the smallest safe work
 
 [Source](https://github.com/kvsankar/sarathi)
 
-#### agent-history
+#### agent-history — AI Coding Assistant History Across Environments
 
 Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, and Gemini CLI.
 Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports, and usage metrics.
@@ -59,7 +59,7 @@ Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports,
 
 [Source](https://github.com/kvsankar/agent-history)
 
-#### dryscope
+#### dryscope — Repository Duplication and Documentation Overlap
 
 Preflight a repository before AI-assisted refactors.
 Find duplicate-code candidates, repeated documentation sections, and docs information-architecture overlap so an agent can target real consolidation work.
