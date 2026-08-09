@@ -26,20 +26,12 @@ Outside consulting, I build interactive astronomy visualizations and open-source
 
 <table>
   <tr>
-    <td width="50%" valign="top"><strong><a href="#hello-i-am-sankar">About</a></strong><br/>Engineering leadership, AI transformation, and scientific visualization.</td>
     <td width="50%" valign="top"><strong><a href="#ai-and-devex">AI and DevEx</a></strong><br/>Tools and experiments for AI-assisted software delivery and developer experience.</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong><a href="#astronomy-visualizations">Astronomy Visualizations</a></strong><br/>Interactive tools built with real ephemeris data.</td>
-    <td valign="top"><strong><a href="#science-outreach">Science Outreach</a></strong><br/>Public talks, media features, and astronomy education.</td>
+    <td width="50%" valign="top"><strong><a href="#astronomy-visualizations">Astronomy Visualizations</a></strong><br/>Interactive tools built with real ephemeris data.</td>
   </tr>
   <tr>
     <td valign="top"><strong><a href="#astrophotography">Astrophotography</a></strong><br/>Deep-sky, comet, and solar-system imaging.</td>
-    <td valign="top"><strong><a href="#homelab">Homelab</a></strong><br/>Ansible-managed infrastructure and observability at home.</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong><a href="#cinematography">Cinematography</a></strong><br/>Independent filmmaking and visual storytelling.</td>
-    <td valign="top"><strong><a href="#blog">Blog</a></strong><br/>Long-form writing on software, AI, and astronomy.</td>
+    <td valign="top"><strong><a href="#science-outreach">Science Outreach</a></strong><br/>Public talks, media features, and astronomy education.</td>
   </tr>
 </table>
 
@@ -137,16 +129,11 @@ Modes: Explore, Plan, and Game. Built with Three.js and astronomy-engine.
 
 ## Science Outreach
 
-Public talks at universities and astronomy clubs, along with media features on space missions and astronomy.
+I give public talks at universities and astronomy clubs on space missions, eclipses, comets, and orbital mechanics.
 
 [![Science outreach talk](/images/outreach-bas-awe-2025.jpg)](https://sankara.net/outreach/)
 
-- [Science outreach page](https://sankara.net/outreach/)
-- [Talk slides](https://github.com/kvsankar/talks)
-- [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
-- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
-- [The Wire article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
-- [ISRO MoM post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
+[Outreach and media](https://sankara.net/outreach/) | [Talk slides](https://github.com/kvsankar/talks) | [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
 
 ## Astrophotography
 
@@ -155,23 +142,11 @@ I am revisiting selected deep-sky data in PixInsight with a nearly automated pip
 
 [Astrophotography gallery](https://sankara.net/astrophotography/) | [PixInsight project gallery](https://kvsankar.github.io/pixinsight/index.html)
 
-## Homelab
+## Beyond GitHub
 
-An Ansible-managed home sandbox with Raspberry Pis, ESXi virtual machines, EdgeRouter, Prometheus and Grafana, WireGuard, and SOPS-encrypted configuration.
+[Sankara.net](https://sankara.net/) is the broader home for my career, interests, and long-form work.
 
-[Explore the homelab](https://sankara.net/homelab/)
-
-## Cinematography
-
-Cinematographer and co-producer of the independent film *Antahkaran* (2015).
-
-[Cinematography](https://sankara.net/cinematography/) | [IMDb](https://www.imdb.com/name/nm6187590/)
-
-## Blog
-
-Long-form writing on AI-assisted software development and astronomy.
-
-[Read the blog](https://blog.sankara.net/)
+[Bio](https://sankara.net/bio/) | [Homelab](https://sankara.net/homelab/) | [Cinematography](https://sankara.net/cinematography/) | [Blog](https://blog.sankara.net/)
 
 [github]: https://github.com/kvsankar
 [website]: https://sankara.net/
