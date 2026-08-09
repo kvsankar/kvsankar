@@ -39,7 +39,14 @@ Outside consulting, I build interactive astronomy visualizations, maintain small
 
 ### AI Projects
 
-Small, focused open-source tools for engineers using AI coding agents.
+Small, focused open-source tools and experiments for engineers using AI coding agents.
+
+#### agent-reviewer-skills
+
+A completed experiment in using specialized, in-context guidance to improve agentic code reviews.
+Includes 23 reviewer skills and retained real-code evaluations; the results found no conclusive improvement over ordinary agent reviews.
+
+[Source](https://github.com/kvsankar/agent-reviewer-skills)
 
 #### agent-history
 
