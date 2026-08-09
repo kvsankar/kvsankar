@@ -19,7 +19,7 @@ I am an engineering leader, AI transformation consultant, and scientific visuali
 I have 28+ years of software engineering and engineering leadership experience across telecom, flash storage, and electric vehicles.
 I now work with engineering teams adopting AI coding agents in real codebases, with a focus on delivery speed, productivity, quality, and responsible trust calibration.
 
-Outside consulting, I build interactive astronomy visualizations, maintain small open-source tools for AI-assisted software development, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
+Outside consulting, I build interactive astronomy visualizations and open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
 
 ### Connect with me:
 
@@ -37,18 +37,27 @@ Outside consulting, I build interactive astronomy visualizations, maintain small
 
 <br/>
 
-### AI Projects
+### AI and DevEx
 
-Small, focused open-source tools and experiments for engineers using AI coding agents.
+Open-source projects for AI-assisted software delivery and developer experience.
 
-#### agent-reviewer-skills
+#### sarathi — Production Software Engineering with AI Agents
+
+A disciplined, adaptive workflow for building production software with AI coding agents.
+Helps agents and software teams turn accepted intent into the smallest safe working increment, preserve decisions and evidence, and adapt the remaining work from real feedback.
+
+[![sarathi production software engineering with AI agents](/images/sarathi-production-software-engineering-ai-agents-2026.png)](https://github.com/kvsankar/sarathi)
+
+[Source](https://github.com/kvsankar/sarathi)
+
+#### agent-reviewer-skills — In-Context Guidance for Code Review
 
 A completed experiment in using specialized, in-context guidance to improve agentic code reviews.
 Includes 23 reviewer skills and retained real-code evaluations; the results found no conclusive improvement over ordinary agent reviews.
 
 [Source](https://github.com/kvsankar/agent-reviewer-skills)
 
-#### agent-history
+#### agent-history — AI Coding Assistant History Across Environments
 
 Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, and Gemini CLI.
 Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports, and usage metrics.
@@ -57,7 +66,7 @@ Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports,
 
 [Source](https://github.com/kvsankar/agent-history)
 
-#### dryscope
+#### dryscope — Repository Duplication and Documentation Overlap
 
 Preflight a repository before AI-assisted refactors.
 Find duplicate-code candidates, repeated documentation sections, and docs information-architecture overlap so an agent can target real consolidation work.
