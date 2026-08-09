@@ -46,8 +46,6 @@ Open-source projects for AI-assisted software delivery and developer experience.
 A disciplined, adaptive workflow for building production software with AI coding agents.
 Helps agents and software teams turn accepted intent into the smallest safe working increment, preserve decisions and evidence, and adapt the remaining work from real feedback.
 
-[![sarathi production software engineering with AI agents](/images/sarathi-production-software-engineering-ai-agents-2026.png)](https://github.com/kvsankar/sarathi)
-
 [Source](https://github.com/kvsankar/sarathi)
 
 #### agent-reviewer-skills — In-Context Guidance for Code Review
@@ -62,16 +60,12 @@ Includes 23 reviewer skills and retained real-code evaluations; the results foun
 Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, and Gemini CLI.
 Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports, and usage metrics.
 
-[![agent-history](/images/agent-history.png)](https://github.com/kvsankar/agent-history)
-
 [Source](https://github.com/kvsankar/agent-history)
 
 #### dryscope — Repository Duplication and Documentation Overlap
 
 Preflight a repository before AI-assisted refactors.
 Find duplicate-code candidates, repeated documentation sections, and docs information-architecture overlap so an agent can target real consolidation work.
-
-[![dryscope](/images/dryscope.png)](https://github.com/kvsankar/dryscope)
 
 [Source](https://github.com/kvsankar/dryscope)
 
