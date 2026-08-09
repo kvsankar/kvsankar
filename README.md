@@ -1,19 +1,4 @@
-### Hello, I am Sankar
-
-<!--
-**kvsankar/kvsankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I am Sankar
 
 I am an engineering leader, AI transformation consultant, and scientific visualization builder based in Bangalore.
 I have 28+ years of software engineering and engineering leadership experience across telecom, flash storage, and electric vehicles.
@@ -21,7 +6,7 @@ I now work with engineering teams adopting AI coding agents in real codebases, w
 
 Outside consulting, I build interactive astronomy visualizations and open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
 
-### Connect with me:
+## Connect with me
 
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -37,39 +22,60 @@ Outside consulting, I build interactive astronomy visualizations and open-source
 
 <br/>
 
-### AI and DevEx
+## Explore
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong><a href="#hello-i-am-sankar">About</a></strong><br/>Engineering leadership, AI transformation, and scientific visualization.</td>
+    <td width="50%" valign="top"><strong><a href="#ai-and-devex">AI and DevEx</a></strong><br/>Tools and experiments for AI-assisted software delivery and developer experience.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong><a href="#astronomy-visualizations">Astronomy Visualizations</a></strong><br/>Interactive tools built with real ephemeris data.</td>
+    <td valign="top"><strong><a href="#science-outreach">Science Outreach</a></strong><br/>Public talks, media features, and astronomy education.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong><a href="#astrophotography">Astrophotography</a></strong><br/>Deep-sky, comet, and solar-system imaging.</td>
+    <td valign="top"><strong><a href="#homelab">Homelab</a></strong><br/>Ansible-managed infrastructure and observability at home.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong><a href="#cinematography">Cinematography</a></strong><br/>Independent filmmaking and visual storytelling.</td>
+    <td valign="top"><strong><a href="#blog">Blog</a></strong><br/>Long-form writing on software, AI, and astronomy.</td>
+  </tr>
+</table>
+
+## AI and DevEx
 
 Open-source projects for AI-assisted software delivery and developer experience.
 
-#### sarathi — Production Software Engineering with AI Agents
+### sarathi — Production Software Engineering with AI Agents
 
 A disciplined, adaptive workflow for building production software with AI coding agents.
 Helps agents and software teams turn accepted intent into the smallest safe working increment, preserve decisions and evidence, and adapt the remaining work from real feedback.
 
 [Source](https://github.com/kvsankar/sarathi)
 
-#### agent-reviewer-skills — In-Context Guidance for Code Review
+### agent-reviewer-skills — In-Context Guidance for Code Review
 
 A completed experiment in using specialized, in-context guidance to improve agentic code reviews.
 Includes 23 reviewer skills and retained real-code evaluations; the results found no conclusive improvement over ordinary agent reviews.
 
 [Source](https://github.com/kvsankar/agent-reviewer-skills)
 
-#### agent-history — AI Coding Assistant History Across Environments
+### agent-history — AI Coding Assistant History Across Environments
 
 Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, and Gemini CLI.
 Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports, and usage metrics.
 
 [Source](https://github.com/kvsankar/agent-history)
 
-#### dryscope — Repository Duplication and Documentation Overlap
+### dryscope — Repository Duplication and Documentation Overlap
 
 Preflight a repository before AI-assisted refactors.
 Find duplicate-code candidates, repeated documentation sections, and docs information-architecture overlap so an agent can target real consolidation work.
 
 [Source](https://github.com/kvsankar/dryscope)
 
-### Astronomy Visualizations
+## Astronomy Visualizations
 
 Interactive, scientifically accurate space and astronomy visualization tools built with real ephemeris data from
 NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
@@ -77,18 +83,7 @@ NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
 The main portal is at [sankara.net/astro](https://sankara.net/astro/).
 Most project source is available on GitHub under the MIT license.
 
-#### Outreach & Media
-
-[![Science outreach talk](/images/outreach-bas-awe-2025.jpg)](https://sankara.net/outreach/)
-
-- [Science outreach page](https://sankara.net/outreach/)
-- [Talk slides](https://github.com/kvsankar/talks)
-- [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
-- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
-- [The Wire article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
-- [ISRO MoM post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
-
-#### Artemis II
+### Artemis II
 
 Real-time 3D visualization of NASA's Artemis II lunar flyby.
 Tracks flyby events, eclipse, closest approach, and predicted Earthrise/Earthset views from the crew's perspective.
@@ -97,7 +92,7 @@ Tracks flyby events, eclipse, closest approach, and predicted Earthrise/Earthset
 
 [Live](https://sankara.net/astro/lunar-missions/mission.html?mission=artemis2) | [Source](https://github.com/kvsankar/moon-mission)
 
-#### Lunar Missions Portal
+### Lunar Missions Portal
 
 Unified visualization platform for 40+ international lunar missions.
 Includes 2D and 3D rendering, multiple reference frames, engine burns, timeline scrubbing, and co-orbital flight modes.
@@ -106,7 +101,7 @@ Includes 2D and 3D rendering, multiple reference frames, engine burns, timeline 
 
 [Live](https://sankara.net/astro/lunar-missions/) | [Source](https://github.com/kvsankar/moon-mission)
 
-#### SatToSat
+### SatToSat
 
 Satellite orbit visualization and conjunction analysis.
 Find close approaches between any two satellites with 100ms precision and automatic TLE fetching from Celestrak.
@@ -115,7 +110,7 @@ Find close approaches between any two satellites with 100ms precision and automa
 
 [Live](https://sankara.net/astro/sattosat/) | [Source](https://github.com/kvsankar/sattosat)
 
-#### Planet Parade
+### Planet Parade
 
 Interactive planetary alignment analyzer.
 Find the best dates to see multiple planets at once and explore the sky with a 3D solar system, alignment timeline, and sky charts.
@@ -124,7 +119,7 @@ Find the best dates to see multiple planets at once and explore the sky with a 3
 
 [Live](https://sankara.net/astro/planet-parade/) | [Source](https://github.com/kvsankar/planet-parade)
 
-#### Chandrayaan-3 Mission Design Tool
+### Chandrayaan-3 Mission Design Tool
 
 Interactive 3D educational tool for orbital mechanics through Chandrayaan-3's mission design.
 Modes: Explore, Plan, and Game. Built with Three.js and astronomy-engine.
@@ -140,10 +135,43 @@ Modes: Explore, Plan, and Game. Built with Three.js and astronomy-engine.
 - [Mars Orbiter Mission](https://sankara.net/mom.html) | [source](https://github.com/kvsankar/mom)
 - [New Horizons Pluto flyby](https://sankara.net/plutoflyby.html)
 
-### Astrophotography Automation
+## Science Outreach
 
-I am revisiting selected deep-sky data in PixInsight with a nearly automated pipeline.
-The notes, scripts, and project logs are public in [kvsankar/pixinsight](https://github.com/kvsankar/pixinsight), with a separate [PixInsight project gallery](https://kvsankar.github.io/pixinsight/index.html).
+Public talks at universities and astronomy clubs, along with media features on space missions and astronomy.
+
+[![Science outreach talk](/images/outreach-bas-awe-2025.jpg)](https://sankara.net/outreach/)
+
+- [Science outreach page](https://sankara.net/outreach/)
+- [Talk slides](https://github.com/kvsankar/talks)
+- [Bangalore Astronomy Society lecture](https://youtu.be/hl5MWLWvqjU)
+- [Asianet News](https://youtu.be/HdfQL0WXe8c?si=cszNfudwH6Eyb9fi)
+- [The Wire article](https://science.thewire.in/aerospace/isro-sivan-chandrayaan-2-vikram-shanmuga-subramanian-lro-nasa-reddit/)
+- [ISRO MoM post](https://www.facebook.com/isromom/photos/host-my-postvisit-this-link-to-see-the-animated-trajectory-of-mom-from-earth-to-/1399149860322954/?_rdr)
+
+## Astrophotography
+
+Nebulae, galaxies, comets, and solar-system events from dark-sky weekends in Coorg and Yelagiri.
+I am revisiting selected deep-sky data in PixInsight with a nearly automated pipeline; the notes, scripts, and project logs are public in [kvsankar/pixinsight](https://github.com/kvsankar/pixinsight).
+
+[Astrophotography gallery](https://sankara.net/astrophotography/) | [PixInsight project gallery](https://kvsankar.github.io/pixinsight/index.html)
+
+## Homelab
+
+An Ansible-managed home sandbox with Raspberry Pis, ESXi virtual machines, EdgeRouter, Prometheus and Grafana, WireGuard, and SOPS-encrypted configuration.
+
+[Explore the homelab](https://sankara.net/homelab/)
+
+## Cinematography
+
+Cinematographer and co-producer of the independent film *Antahkaran* (2015).
+
+[Cinematography](https://sankara.net/cinematography/) | [IMDb](https://www.imdb.com/name/nm6187590/)
+
+## Blog
+
+Long-form writing on AI-assisted software development and astronomy.
+
+[Read the blog](https://blog.sankara.net/)
 
 [github]: https://github.com/kvsankar
 [website]: https://sankara.net/
