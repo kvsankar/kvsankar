@@ -41,10 +41,10 @@ Open-source projects for AI-assisted software delivery and developer experience.
 
 ### sarathi — Production Software Engineering with AI Agents
 
-A disciplined, adaptive workflow for building production software with AI coding agents.
-Helps agents and software teams turn accepted intent into the smallest safe working increment, preserve decisions and evidence, and adapt the remaining work from real feedback.
+A disciplined, adaptive workflow for production software engineering with AI coding agents.
+Helps agents turn an accepted product baseline and a focused change into the smallest safe working result, with review-sized Git boundaries, automatic checks, independent review, and protected gates.
 
-[Source](https://github.com/kvsankar/sarathi)
+[Source](https://github.com/kvsankar/sarathi) | [npm package](https://www.npmjs.com/package/sarathi-sdlc)
 
 ### agent-reviewer-skills — In-Context Guidance for Code Review
 
