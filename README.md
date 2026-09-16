@@ -4,7 +4,7 @@ I am an engineering leader, AI transformation consultant, and scientific visuali
 I have 28+ years of software engineering and engineering leadership experience across telecom, flash storage, and electric vehicles.
 I now work with engineering teams adopting AI coding agents in real codebases, with a focus on delivery speed, productivity, quality, and responsible trust calibration.
 
-Outside consulting, I build interactive astronomy visualizations and open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
+Outside consulting, I build interactive astronomy visualizations and research resources, as well as open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
 
 ## Connect with me
 
@@ -69,8 +69,7 @@ Find duplicate-code candidates, repeated documentation sections, and docs inform
 
 ## Astronomy Visualizations
 
-Interactive, scientifically accurate space and astronomy visualization tools built with real ephemeris data from
-NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
+Interactive, scientifically accurate space and astronomy visualization tools and research resources built with real ephemeris data from NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
 
 The main portal is at [sankara.net/astro](https://sankara.net/astro/).
 Most project source is available on GitHub under the MIT license.
@@ -110,6 +109,15 @@ Find the best dates to see multiple planets at once and explore the sky with a 3
 [![Planet Parade](/images/planet-parade.png)](https://sankara.net/astro/planet-parade/)
 
 [Live](https://sankara.net/astro/planet-parade/) | [Source](https://github.com/kvsankar/planet-parade)
+
+### Computing Solar Eclipses
+
+A deep research corpus for developers building solar eclipse prediction software.
+Covers Besselian algorithms, constants and provenance, ephemerides, lunar-limb and terrain corrections, validation, error budgets, published implementations, datasets, and unresolved questions.
+
+[![Total solar eclipse of 11 August 1999](https://sankara.net/astro/solar-eclipses/img/totality-1999-viatour.jpg)](https://sankara.net/astro/solar-eclipses/computing.html)
+
+[Live](https://sankara.net/astro/solar-eclipses/computing.html) | [Source](https://github.com/kvsankar/solar-eclipse-research)
 
 ### Chandrayaan-3 Mission Design Tool
 
