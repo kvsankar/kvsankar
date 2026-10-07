@@ -3,6 +3,8 @@
 I am an engineering leader, AI transformation consultant, and scientific visualization builder based in Bangalore.
 I have 28+ years of software engineering and engineering leadership experience across telecom, flash storage, and electric vehicles.
 I now work with engineering teams adopting AI coding agents in real codebases, with a focus on delivery speed, productivity, quality, and responsible trust calibration.
+The advice comes from hands-on practice: as a single engineer directing coding agents, I have built production systems spanning backend, web, mobile, and cloud — hundreds of thousands of lines of tested code within a year.
+I train developers, product managers, and leaders on coding agents, and publish the practices I use as [Sarathi](#sarathi--production-software-engineering-with-ai-agents).
 
 Outside consulting, I build interactive astronomy visualizations and research resources, as well as open-source projects for AI-assisted software delivery and developer experience, give public talks on space and astronomy, and occasionally revisit old astrophotography data with modern processing pipelines.
 
