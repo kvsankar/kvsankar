@@ -58,7 +58,7 @@ Includes 23 reviewer skills and retained real-code evaluations; the results foun
 
 ### agent-history — AI Coding Assistant History Across Environments
 
-Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, and Gemini CLI.
+Browse and export AI coding assistant conversation history across Claude Code, OpenAI Codex CLI, Gemini CLI, and Pi.
 Reaches local, WSL, Windows, and SSH homes; produces listings, markdown exports, and usage metrics.
 
 [Source](https://github.com/kvsankar/agent-history)
