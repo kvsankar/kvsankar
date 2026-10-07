@@ -70,6 +70,13 @@ Find duplicate-code candidates, repeated documentation sections, and docs inform
 
 [Source](https://github.com/kvsankar/dryscope)
 
+### portable-toolkit — Developer Tools for Coding Agents on Locked-Down Windows
+
+Installs Git, Node, uv, Python, and Px on Windows without administrator rights or a software request.
+Meant for coding agents such as the GitHub Copilot desktop app that rely on the machine's own Node.js and Python, on corporate laptops without admin access and behind an authenticating proxy, which Px handles.
+
+[Source](https://github.com/kvsankar-ai-training/portable-toolkit)
+
 ## Astronomy Visualizations
 
 Interactive, scientifically accurate space and astronomy visualization tools and research resources built with real ephemeris data from NASA's [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) platform.
